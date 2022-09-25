@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/practice/L-Assignment-3/Codeforces/Codechef/Codechef.iml" filepath="$PROJECT_DIR$/practice/L-Assignment-3/Codeforces/Codechef/Codechef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/L-Assignment-3/Codeforces/Codeforces.iml" filepath="$PROJECT_DIR$/practice/L-Assignment-3/Codeforces/Codeforces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/L-Assignment-3/L-Assignment-3.iml" filepath="$PROJECT_DIR$/practice/L-Assignment-3/L-Assignment-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/L-Assignment-3/Lab-2/Lab-2.iml" filepath="$PROJECT_DIR$/practice/L-Assignment-3/Lab-2/Lab-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabAssignment.iml" filepath="$PROJECT_DIR$/LabAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+    </modules>
+  </component>
+</project>
